@@ -1,0 +1,4 @@
+(walk 5)
+(rotate back)
+(look N)
+(walkTo 7 S)
